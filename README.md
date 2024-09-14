@@ -31,8 +31,6 @@ document_retrieval_system/
 ├── README.md                 # Documentation with details on how to run the project
 ├── requirements.txt          # Python dependencies
 ├── run.py                    # Entry point for running the Flask app
-└── test_requests/
-    └── test_search.sh        # Example script to test the /search endpoint using curl
 ```
 
 ---
